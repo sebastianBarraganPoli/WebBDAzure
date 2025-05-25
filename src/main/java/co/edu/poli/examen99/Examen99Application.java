@@ -1,13 +1,13 @@
-package co.edu.poli.examen2;
+package co.edu.poli.examen99;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Examen2Application {
+public class Examen99Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Examen2Application.class, args);
+		SpringApplication.run(Examen99Application.class, args);
 	}
 
 

@@ -1,10 +1,10 @@
-package co.edu.poli.examen2;
+package co.edu.poli.examen99;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Examen2ApplicationTests {
+class Examen99ApplicationTests {
 
 	@Test
 	void contextLoads() {

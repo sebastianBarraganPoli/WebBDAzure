@@ -1,4 +1,4 @@
-package co.edu.poli.examen2.controller;
+package co.edu.poli.examen99.controller;
 
 import java.util.List;
 
@@ -13,8 +13,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import co.edu.poli.examen2.model.Producto;
-import co.edu.poli.examen2.service.ProductoService;
+import co.edu.poli.examen99.model.Producto;
+import co.edu.poli.examen99.service.ProductoService;
 
 
 @RestController

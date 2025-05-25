@@ -1,12 +1,12 @@
-package co.edu.poli.examen2.service;
+package co.edu.poli.examen99.service;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import co.edu.poli.examen2.model.Producto;
-import co.edu.poli.examen2.repositories.ProductoRepository;
+import co.edu.poli.examen99.model.Producto;
+import co.edu.poli.examen99.repositories.ProductoRepository;
 
 @Service
 public class ProductoService {

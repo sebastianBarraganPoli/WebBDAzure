@@ -1,4 +1,4 @@
-package co.edu.poli.examen2.model;
+package co.edu.poli.examen99.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
